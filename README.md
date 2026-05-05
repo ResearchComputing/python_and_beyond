@@ -11,3 +11,9 @@ By the end of this workshop, you will be able to: understand what Anaconda/Mamba
 In order to follow along with the hands-on component of this workshop, you’ll want to have a Research Computing account. If you need assistance with this, you can attend CRDDS Office Hours on a Tuesday or Thursday before this course, or email rc-help@colorado.edu.
 
 *What is a Primer? A Primer is a session that provides an introduction to concepts, systems, and tools. You can expect to leave "Primers" with an introductory-level understanding of the topic.
+
+--- 
+
+We aim to make our online resources accessible to everyone. 
+If you encounter any barriers in the materials contained in this repository, please report them through our support request form
+https://colorado.service-now.com/req_portal?id=ucb_sc_rc_form
